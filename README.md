@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Blockchain**
 
-- 🌱 I’m currently learning **react native**
+- 🌱 I’m currently learning **react js**
 
 - 📫 How to reach me **singhvishal7044@gmial.com**
 

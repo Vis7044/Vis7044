@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **react js**
 
-- 📫 How to reach me **singhvishal7044@gmial.com/****https://twitter.com/vishalB55575551****https://www.facebook.com/profile.php?id=100015133486926****https://www.instagram.com/vishal5323singh/**
+- 📫 How to reach me  singhvishal7044@gmial.com  https://twitter.com/vishalB55575551  https://www.facebook.com/profile.php?id=100015133486926 https://www.instagram.com/vishal5323singh/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

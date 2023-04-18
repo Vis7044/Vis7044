@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Blockchain**
+- 🔭  I’m currently working on making strong base with **DSA** along with **web development** (MERN) and **AI**
 
 - 🌱 I’m currently learning **react js**
 
-- 📫 How to reach me **singhvishal7044@gmial.com**
+- 📫 How to reach me **singhvishal7044@gmial.com/****https://twitter.com/vishalB55575551****https://www.facebook.com/profile.php?id=100015133486926****https://www.instagram.com/vishal5323singh/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

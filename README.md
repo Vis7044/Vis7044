@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vis7044&label=Profile%20views&color=0e75b6&style=flat" alt="vis7044" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vis7044" alt="vis7044" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/vishalb55575551" target="blank"><img src="https://img.shields.io/twitter/follow/vishalb55575551?logo=twitter&style=for-the-badge" alt="vishalb55575551" /></a> </p>
 
 - 🔭 I’m currently working on **machine learning**
@@ -19,6 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/vishalb55575551" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishalb55575551" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vishal-bhagat-2070a922a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-bhagat-2070a922a" height="30" width="40" /></a>
+<a href="https://instagram.com/vishal5323singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishal5323singh" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/cse14800121070" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cse14800121070" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vis8240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vis8240" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/singhvishal7044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="singhvishal7044" height="30" width="40" /></a>
